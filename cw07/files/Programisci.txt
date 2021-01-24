@@ -1,0 +1,5 @@
+Jolanta Irenka	Groovy	Grails	Java	JEE
+Leszek Maria	Groovy	Grails	Java
+Łucja Justyn	Groovy	Grails
+Arkadiusz Radomiła	Groovy
+Bale Krzysztof	JEE

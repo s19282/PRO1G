@@ -1,0 +1,4 @@
+Groovy	Jolanta Irenka	Leszek Maria	Łucja Justyn	Arkadiusz Radomiła
+Grails	Jolanta Irenka	Leszek Maria	Łucja Justyn
+Java	Jolanta Irenka	Leszek Maria
+JEE	Jolanta Irenka	Bale Krzysztof
