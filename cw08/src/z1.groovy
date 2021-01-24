@@ -1,0 +1,1 @@
+input = javax.swing.JOptionPane.showInputDialog('Oddziel elementy spacjami').tokenize(' ').collect({ (it as Integer)*2 })
