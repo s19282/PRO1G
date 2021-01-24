@@ -1,0 +1,4 @@
+danie1 2.20
+danie2 4.41
+danie3 11.02
+danie4 22.05

@@ -1,0 +1,4 @@
+danie1 10
+danie2 20
+danie3 50
+danie4 100
