@@ -11,10 +11,7 @@ lm[0] = new FlowLayout()
 lm[1] = new BorderLayout()
 lm[2] = new GridLayout(3,2)
 
-def chosenLayout = showInputDialog('Wybierz layout(1-3)' +
-        '\n1 => FlowLayout' +
-        '\n2 => BorderLayout' +
-        '\n3 => GridLayout 3x2')
+def chosenLayout = ""
 
 while (!chosenLayout.isInteger() || !(Integer.parseInt(chosenLayout) in (1..3))) {
     chosenLayout = showInputDialog('Wybierz layout(1-3)' +
