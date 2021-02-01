@@ -11,7 +11,8 @@ static List getData(Class aClass = String, Closure... c)
             if(c.length==0)
                 output<<it
             if(c.length==1)
-                output<<c[0](it)
+                if(c[0](it))
+                    output<<it
         }
         catch (Exception ignored){}
 
