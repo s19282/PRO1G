@@ -11,6 +11,6 @@ new SwingBuilder().edt {
             if (c == colors.size())
                 c = 0
             e.source.background = colors[c++]
-        })
+        } )
     }
 }

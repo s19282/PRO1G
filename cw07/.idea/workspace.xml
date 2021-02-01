@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="724c3adb-a59f-4a45-a8ea-b143dfd292c4" name="Default Changelist" comment="_" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="cw07" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nX47sweQc0VBy1kjr2ay7khLhc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cw09" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mateusz\Desktop\PJATK\Rok 3\Semestr 1\PRO1G\Github\PRO1G\cw07\files" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Groovy.z3 (2)">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="z1" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="cw07" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/z1.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="z2" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="cw07" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/z2.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="z3 (1)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="cw07" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/z3.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="z3 (2)" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="cw07" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/z3.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="z3" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="cw07" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/z3.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Groovy.z3 (2)" />
+        <item itemvalue="Groovy.z3 (1)" />
+        <item itemvalue="Groovy.z3" />
+        <item itemvalue="Groovy.z2" />
+        <item itemvalue="Groovy.z1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="724c3adb-a59f-4a45-a8ea-b143dfd292c4" name="Default Changelist" comment="" />
+      <created>1611522939866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611522939866</updated>
+      <workItem from="1611522940941" duration="6783000" />
+      <workItem from="1611570462367" duration="10000" />
+      <workItem from="1612171285848" duration="54000" />
+      <workItem from="1612171882736" duration="185000" />
+      <workItem from="1612172700852" duration="30000" />
+      <workItem from="1612172931623" duration="77000" />
+    </task>
+    <task id="LOCAL-00001" summary="z1">
+      <created>1611529309287</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611529309287</updated>
+    </task>
+    <task id="LOCAL-00002" summary="z2">
+      <created>1611529817492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611529817492</updated>
+    </task>
+    <task id="LOCAL-00003" summary="z3">
+      <created>1611530339854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611530339854</updated>
+    </task>
+    <task id="LOCAL-00004" summary="_">
+      <created>1612172710890</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612172710890</updated>
+    </task>
+    <task id="LOCAL-00005" summary="_">
+      <created>1612172997674</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612172997674</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="z1" />
+    <MESSAGE value="z2" />
+    <MESSAGE value="z3" />
+    <MESSAGE value="_" />
+    <option name="LAST_COMMIT_MESSAGE" value="_" />
+  </component>
+</project>

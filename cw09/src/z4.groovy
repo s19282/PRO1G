@@ -10,6 +10,7 @@ def path = null
 while (!path)
     path = JOptionPane.showInputDialog(null, 'Podaj ścieżkę:', "../img")
 
+
 try
 {
     def dir

@@ -20,7 +20,8 @@ while (!chosenLayout.isInteger() || !(Integer.parseInt(chosenLayout) in (1..3)))
             '\n3 => GridLayout 3x2')
 }
 
-new SwingBuilder().edt {
+new SwingBuilder().edt
+        {
     frame(title: 'Buttons', defaultCloseOperation: JFrame.EXIT_ON_CLOSE, pack: true, show: true, layout: lm[(chosenLayout as Integer) - 1]) {
         button(text: buttonNames[0], constraints: BorderLayout.CENTER)
         button(text: buttonNames[1], constraints: BorderLayout.EAST)
